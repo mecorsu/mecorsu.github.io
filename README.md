@@ -1,0 +1,2 @@
+# mecorsu.github.io
+blog
